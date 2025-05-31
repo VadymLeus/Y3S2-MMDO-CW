@@ -1,0 +1,260 @@
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe.config
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.AssemblyReference.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.MMDO_CW_CODE.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.Properties.Resources.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.GenerateResource.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.CoreCompileInputs.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-3\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe.config
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-3\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-3\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-3\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.AssemblyReference.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-3\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.MMDO_CW_CODE.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-3\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.Properties.Resources.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-3\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.GenerateResource.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-3\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.CoreCompileInputs.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-3\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-3\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-4\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe.config
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-4\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-4\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-4\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.AssemblyReference.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-4\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.MMDO_CW_CODE.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-4\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.Properties.Resources.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-4\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.GenerateResource.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-4\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.CoreCompileInputs.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-4\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-4\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-5\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe.config
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-5\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-5\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-5\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.AssemblyReference.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-5\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.MMDO_CW_CODE.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-5\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.Properties.Resources.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-5\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.GenerateResource.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-5\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.CoreCompileInputs.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-5\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-5\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-6\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe.config
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-6\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-6\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-6\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.AssemblyReference.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-6\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.MMDO_CW_CODE.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-6\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.Properties.Resources.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-6\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.GenerateResource.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-6\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.CoreCompileInputs.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-6\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-6\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe.config
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.AssemblyReference.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.Properties.Resources.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.GenerateResource.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.CoreCompileInputs.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-13 - Перед оптимизацией\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe.config
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-13 - Перед оптимизацией\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-13 - Перед оптимизацией\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-13 - Перед оптимизацией\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.AssemblyReference.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-13 - Перед оптимизацией\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.MMDO_CW_CODE.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-13 - Перед оптимизацией\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.Properties.Resources.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-13 - Перед оптимизацией\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.GenerateResource.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-13 - Перед оптимизацией\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.CoreCompileInputs.cache
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-13 - Перед оптимизацией\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.exe
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\BACK-UP-13 - Перед оптимизацией\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\EPPlus.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\System.Buffers.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\System.Memory.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\EPPlus.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\System.Buffers.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\System.Memory.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO-CW-.55DE1A57.Up2Date
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.MMDO_CW_CODE.resources
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\ClosedXML.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\ClosedXML.Parser.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\ExcelNumberFormat.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\RBush.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\SixLabors.Fonts.dll
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\ClosedXML.pdb
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\ClosedXML.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\ClosedXML.Parser.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\ExcelNumberFormat.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\RBush.xml
+C:\Users\vadym\Desktop\Математичні методи дослідження операцій\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE\MMDO-CW-CODE\bin\Debug\SixLabors.Fonts.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe.config
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.pdb
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\ClosedXML.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\ClosedXML.Parser.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\EPPlus.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\EPPlus.Interfaces.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\ExcelNumberFormat.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\RBush.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\SixLabors.Fonts.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\System.Buffers.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\System.Memory.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\System.Numerics.Vectors.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\ClosedXML.pdb
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\ClosedXML.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\ClosedXML.Parser.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\EPPlus.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\ExcelNumberFormat.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\RBush.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\SixLabors.Fonts.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\System.Buffers.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\System.Memory.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\System.Numerics.Vectors.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.AssemblyReference.cache
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.MMDO_CW_CODE.resources
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.Properties.Resources.resources
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.GenerateResource.cache
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.CoreCompileInputs.cache
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\obj\Debug\MMDO-CW-.55DE1A57.Up2Date
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.exe
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\BACK-UP\MMDO-CW-CODE - Актуальный вариант — копия\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.pdb
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe.config
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.pdb
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\ClosedXML.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\ClosedXML.Parser.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\EPPlus.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\EPPlus.Interfaces.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\ExcelNumberFormat.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\RBush.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\SixLabors.Fonts.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Buffers.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Memory.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Numerics.Vectors.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\ClosedXML.pdb
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\ClosedXML.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\ClosedXML.Parser.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\EPPlus.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\ExcelNumberFormat.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\RBush.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\SixLabors.Fonts.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Buffers.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Memory.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Numerics.Vectors.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.AssemblyReference.cache
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.MMDO_CW_CODE.resources
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.Properties.Resources.resources
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.GenerateResource.cache
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.CoreCompileInputs.cache
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\obj\Debug\MMDO-CW-.55DE1A57.Up2Date
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.exe
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.pdb
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.IO.Pipelines.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Text.Encodings.Web.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Text.Json.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.ValueTuple.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.IO.Pipelines.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Text.Encodings.Web.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Text.Json.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-20\MMDO-CW-CODE\bin\Debug\System.ValueTuple.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe.config
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.exe
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\MMDO-CW-CODE.pdb
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\ClosedXML.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\ClosedXML.Parser.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\EPPlus.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\EPPlus.Interfaces.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\ExcelNumberFormat.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\RBush.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\SixLabors.Fonts.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Buffers.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.IO.Pipelines.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Memory.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Numerics.Vectors.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Text.Encodings.Web.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Text.Json.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.ValueTuple.dll
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\ClosedXML.pdb
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\ClosedXML.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\ClosedXML.Parser.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\EPPlus.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\ExcelNumberFormat.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\RBush.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\SixLabors.Fonts.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Buffers.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.IO.Pipelines.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Memory.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Numerics.Vectors.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Text.Encodings.Web.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Text.Json.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\bin\Debug\System.ValueTuple.xml
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.AssemblyReference.cache
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.MMDO_CW_CODE.resources
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\obj\Debug\MMDO_CW_CODE.Properties.Resources.resources
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.GenerateResource.cache
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.csproj.CoreCompileInputs.cache
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\obj\Debug\MMDO-CW-.55DE1A57.Up2Date
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.exe
+D:\Studying\Otrabotono\Y3S2\MMDO\MMDO-COURSE-WORK\Code\BACK-UP-21\MMDO-CW-CODE\obj\Debug\MMDO-CW-CODE.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMDO-CW-CODE", "MMDO-CW-CODE\MMDO-CW-CODE.csproj", "{14FA332C-C3B2-4205-90B8-0AEDEA3A2045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14FA332C-C3B2-4205-90B8-0AEDEA3A2045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FA332C-C3B2-4205-90B8-0AEDEA3A2045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FA332C-C3B2-4205-90B8-0AEDEA3A2045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FA332C-C3B2-4205-90B8-0AEDEA3A2045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6A7D5C6-9860-4646-AC17-EBD98ABED9BA}
+	EndGlobalSection
+EndGlobal
